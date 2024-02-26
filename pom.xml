@@ -43,7 +43,7 @@
 			      <connectedAppClientId>3913a53b9c254d758e6b6e756ad53526</connectedAppClientId>
 			      <connectedAppClientSecret>f51e8A95aA8D469A908e24921E62640a</connectedAppClientSecret>
 			      <connectedAppGrantType>client_credentials</connectedAppGrantType>
-			      <applicationName>SKgodzilla</applicationName>
+			      <applicationName>gitTrial</applicationName>
 			      <environment>Sandbox</environment>
 			      <region>us-east-1</region>
 			      <workers>1</workers>
